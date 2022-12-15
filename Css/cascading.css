@@ -1,0 +1,62 @@
+/* Descargado de: www.gratiscodigo.com */
+html {
+  min-height: 100%;
+  position: relative;
+}
+body {
+  margin: 0;
+  margin-bottom: 40px;
+}
+.back{
+    background-color: #e4f4eb;
+}
+
+input[type=button]
+    {
+        padding: 0px;
+        border-bottom:4px solid #ee3c49;
+        height: 50px;
+        width: 80px;
+
+    }
+input[type=reset]
+{
+    padding: 0px;
+        border-bottom:4px solid saddlebrown;
+        height: 50px;
+        width: 80px;
+}
+input[type=text]
+    {
+
+        text-align: right;
+        height: 50px;
+        width: 240px;
+    }
+.control
+    {
+
+        margin:0px auto;
+        height: 350px;
+        width: 367px;
+        background-color:#251b0e;
+        border-radius:12px;
+        border-bottom:4px solid saddlebrown;
+    }
+#gratiscodigo{
+    float: left;
+    margin-top:20px;
+    margin-left:20px;
+
+}
+footer {
+  background-color: black;
+  padding-top: 10px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  color: white;
+  align-content: center;
+  text-align: center;
+}
